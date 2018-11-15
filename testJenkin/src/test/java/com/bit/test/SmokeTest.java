@@ -6,5 +6,6 @@ public class SmokeTest {
 	@Test
 	public void test1() {
 		System.out.println("passed");
+		System.out.println("hello");
 	}
 }
